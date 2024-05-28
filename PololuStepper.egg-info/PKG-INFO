@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: PololuStepper
+Version: 1.0
+Summary: Implementation of Pololu stepper motor drivers for Raspberry Pi, based on the Pololu library for Arduino.
+Home-page: https://github.com/AlexLazarovich/PololuStepper
+Author: Alex Lazarovich
+Author-email: alexlazarovch@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: RPi.GPIO
+
+# PololuStepper
+ 
